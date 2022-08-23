@@ -21,7 +21,7 @@ We actively welcome your pull requests:
 5. Make sure your code lints.
 6. Issue your pull request!
 
-A helpful tutorial on the fork-branch process can be found [here] (https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
+A helpful tutorial on the fork-branch process can be found [here](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
 ## Contributions and Software License
 
 In short, when you submit code changes, your submissions are understood to be under the same Software License that covers this repository. 
